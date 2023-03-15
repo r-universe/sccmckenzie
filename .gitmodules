@@ -8,3 +8,8 @@
 	url = https://github.com/sccmckenzie/mopac
 	shallow = true
 	registered = true
+[submodule "sift"]
+	path = sift
+	url = https://github.com/sccmckenzie/sift
+	shallow = true
+	registered = true

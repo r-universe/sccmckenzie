@@ -2,5 +2,9 @@
   {
     "package": "mopac",
     "oncran": true
+  },
+  {
+    "package": "sift",
+    "oncran": true
   }
 ]
