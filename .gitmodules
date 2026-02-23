@@ -5,6 +5,3 @@
 [submodule "mopac"]
 	path = mopac
 	url = https://github.com/sccmckenzie/mopac
-[submodule "sift"]
-	path = sift
-	url = https://github.com/sccmckenzie/sift
